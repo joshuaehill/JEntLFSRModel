@@ -1,6 +1,6 @@
 # Code Used Within the Paper *JEnt v2.2.0 LFSR Conditioning Analysis*
 
-The LFSR used within JEnt v2.2.0 is linear, and thus can be modeled using matrix multiplication. This idea is explored in the paper [*JEnt v2.2.0 LFSR Conditioning Analysis*](https://www.untruth.org/~josh/sp80090b/JEnt%20v2.2.0%20LFSR%20Conditioning%20Analysis%20TRD9.pdf).
+The LFSR used within JEnt v2.2.0 is linear, and thus can be modeled using matrix multiplication. This idea is explored in the paper [*JEnt v2.2.0 LFSR Conditioning Analysis*](https://www.untruth.org/~josh/sp80090b/JEnt%20v2.2.0%20LFSR%20Conditioning%20Analysis%20TRD9.pdf), which was presented in the CMUF Entropy Working Group using [this presentation](https://www.untruth.org/~josh/sp80090b/20251209%20JEnt%20v2.2.0%20LFSR%20Conditioning%20Analysis%20Slides.pdf).
 
 The code included in this repository can be used to generate the matrices $A$, $A_{\text{single}}$ , and $B$. Because this LFSR operation is the sum of two linear transforms, this LFSR operation is completely specified by its action on a basis.
 
