@@ -10,4 +10,4 @@ This code also includes a program to model all the raw noise symbols in a range 
 
 This repository also includes the `filtermass-testing.tar.xz` file, which contains the JEnt v2.2.0 and v3.6.3 code that was used in filter mass testing.
 
-The `hprime-results.tar.xz` file contains the raw results associated with the distribution (cited in Section 4.2.2 in the associated paper), but this file is too large for GitHub. This file can be found [here](https://untruth.org/~josh/sp80090b/jent-lfsr/hprime-results.tar.xz).
+The `hprime-results.tar.xz` file contains the raw results associated with the distribution (cited in Section 4.2.2 in the associated paper), but this file is too large for GitHub. This file can be found [here](https://www.untruth.org/~josh/sp80090b/jent-lfsr/hprime-results.tar.xz).
